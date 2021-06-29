@@ -9,5 +9,6 @@ import textinput from './topics/textinput';
 import indicator from './topics/indicator';
 import pickerex from './topics/pickerex';
 import SwitchExample from './topics/SwitchExample';
+import WebView_ from './topics/WebView_';
 
-AppRegistry.registerComponent(appName, () => SwitchExample);
+AppRegistry.registerComponent(appName, () => WebView_);
